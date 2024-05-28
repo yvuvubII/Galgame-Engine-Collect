@@ -271,23 +271,23 @@
   + 源码授权协议：闭源
   + 详细资料见官网-->
 
-### `playground 2d`引擎
+<!--### `playground 2d`引擎
 
 + [开源地址](https://github.com/KLab/PlaygroundOSS)
 + [公司官网](http://dsas.blog.klab.org/)
 + 描述：
   + 产地：日本
   + 状态：开源
-  + 源码授权协议：Apache 2.0
+  + 源码授权协议：Apache 2.0-->
 
-### `Klayge`引擎
+<!--### `Klayge`引擎
 + [官网](http://www.klayge.org/)
 + [开源地址](https://github.com/gongminmin/KlayGE)
 + 描述：
   + 产地：中国
   + 状态：开源
   + 源码授权协议：GPL2.0
-  + 开发者信息：中国人：龚大
+  + 开发者信息：中国人：龚大-->
 
 ### `Almight`AVG引擎
 
