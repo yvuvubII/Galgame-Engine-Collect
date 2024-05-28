@@ -22,8 +22,8 @@
 <!--+ [资讯类网站](#下面是资讯类型的网站)-->
 <!--+ [相关工具列表](#相关工具)-->
 <!--+ [github上的视觉小说引擎排行榜](https://github.com/topics/visual-novel-engine)-->
-+ [引擎大全表格](table.md)
-+ [小白也能学会的Galgame制作](https://github.com/FiveYellowMice/onscripter-tutorial#%E5%B0%8F%E7%99%BD%E4%B9%9F%E8%83%BD%E5%AD%A6%E4%BC%9A%E7%9A%84galgame%E5%88%B6%E4%BD%9C) 基于nscripter引擎和onscripter运行环境
+<!--+ [引擎大全表格](table.md)-->
+<!--+ [小白也能学会的Galgame制作](https://github.com/FiveYellowMice/onscripter-tutorial#%E5%B0%8F%E7%99%BD%E4%B9%9F%E8%83%BD%E5%AD%A6%E4%BC%9A%E7%9A%84galgame%E5%88%B6%E4%BD%9C) 基于nscripter引擎和onscripter运行环境-->
 
 ## 正题!
 
@@ -31,11 +31,11 @@
 
 ### 解包工具合集
 
-+ [FuckGalEngine](https://github.com/Inori/FuckGalEngine)
-+ https://wwa.lanzoui.com/b016lryej
+<!--+ [FuckGalEngine](https://github.com/Inori/FuckGalEngine)-->
+<!--+ https://wwa.lanzoui.com/b016lryej
 + 密码：`9yo7`
 + 推荐使用`carss0.140-final`解包，支持的格式多，`nsa`和`xp3`都能解
-+ [crass解包器官网](http://web.archive.org/web/20180526203115/http://galcrass.blog124.fc2blog.us/) 描述：这个需要翻墙访问，原官网已经没了，这个是收录。
++ [crass解包器官网](http://web.archive.org/web/20180526203115/http://galcrass.blog124.fc2blog.us/) 描述：这个需要翻墙访问，原官网已经没了，这个是收录。-->
 
 ### 各种视觉小说/gal引擎/游戏合集
 
