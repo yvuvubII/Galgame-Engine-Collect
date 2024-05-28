@@ -66,28 +66,29 @@
   + 基于web技术
   + todo：2.0打算使用`pharser.js`做底层渲染
 
-### `novelty`引擎
+<!--### `novelty`引擎
 
 + [官网](http://www.visualnovelty.com/index.html)
 + 描述：
   + 开源
-+ 特性：自带IDE集成开发环境，免编程或者自己写代码![image](https://user-images.githubusercontent.com/29478722/176579839-98154a6c-f3a9-42d7-b80e-ed179b81a6ac.png)
++ 特性：自带IDE集成开发环境，免编程或者自己写代码![image](https://user-images.githubusercontent.com/29478722/176579839-98154a6c-f3a9-42d7-b80e-ed179b81a6ac.png)-->
 
-### `catSystem2`引擎
+<!--### `catSystem2`引擎
 
 + [官网](http://cs2.suki.jp/)
 + 描述：
   + 是否开源：闭源，私有
   + 使用授权：同人免费使用，商业技术支持收费
   + 开发者信息：日本风车社
-  + [catsystem引擎中文简介](https://zhuanlan.zhihu.com/p/561558009)
-### Oxygengine
+  + [catsystem引擎中文简介](https://zhuanlan.zhihu.com/p/561558009)-->
+
+<!--### Oxygengine
 
 + [官网](https://psichix.github.io/Oxygengine)
 + [开源地址](https://github.com/PsichiX/oxygengine)
 + 描述：
   + 是否开源：开源
-  + 截图：![image](https://raw.githubusercontent.com/PsichiX/Oxygengine/master/media/oxygengine-visual-novel-teaser.gif)
+  + 截图：![image](https://raw.githubusercontent.com/PsichiX/Oxygengine/master/media/oxygengine-visual-novel-teaser.gif)-->
 
 ### `xsystem-35-sdl2`引擎
 
@@ -101,22 +102,22 @@
 + 描述：
   + alicesoft公司的引擎的开源运行环境
 
-### `bkengine`：全新的AVG/Galgame游戏引擎
+<!--### `bkengine`：全新的AVG/Galgame游戏引擎
 
 + [官网](https://bakery.moe/)
 + 描述：
   + 闭源
   + 国产
-  + 底层基于`cocos-2dx`
+  + 底层基于`cocos-2dx`-->
 
-### `the nvl maker`
+<!--### `the nvl maker`
 
 + [官网](http://www.nvlmaker.net/)
 + 描述：
   + 是否开源：开源或者半开源
   + 技术：基于krk的模板引擎
   + 是否跨平台：未知
-  + 其他版本：![image](https://user-images.githubusercontent.com/29478722/174467185-c259589a-742d-4e1a-9a34-5f16b77411ec.png)
+  + 其他版本：![image](https://user-images.githubusercontent.com/29478722/174467185-c259589a-742d-4e1a-9a34-5f16b77411ec.png)-->
 
 ### krkrz
 
