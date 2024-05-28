@@ -90,7 +90,7 @@
   + 是否开源：开源
   + 截图：![image](https://raw.githubusercontent.com/PsichiX/Oxygengine/master/media/oxygengine-visual-novel-teaser.gif)-->
 
-### `xsystem-35-sdl2`引擎
+<!--### `xsystem-35-sdl2`引擎
 
 + [开源地址](https://github.com/kichikuou/xsystem35-sdl2)
 + 描述：
@@ -171,22 +171,22 @@
 + 描述：
   + LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度很高，其中的分段SKIP功能，目前没看到有别的引擎可以做到-->
 
-### 闪艺
+<!--### 闪艺
 
 + [官网](https://www.3000.com/)
 + [下载地址](https://www.3000.com/client-download.html)
 + 描述：
-  + 国产, 橙光的竞争对手
+  + 国产, 橙光的竞争对手-->
 
-### AVGPlus引擎
+<!--### AVGPlus引擎
 
 + [官网](https://avg-engine.com/)
 + [开源地址](https://github.com/avg-plus/avg.renderer)
 + 描述：
   + 国产
-  + 开源
+  + 开源-->
 
-### `Artemis Engine`
+<!--### `Artemis Engine`
 
 + [官网](http://www.ies-net.com/?page_id=2)
 + 描述：
@@ -194,9 +194,9 @@
   + 闭源
   + 需要和作者联系获得引擎使用授权
 + [网友提供的sdk下载](https://github.com/2439905184/Galgame-Engine-Collect/releases)
-+
++-->
 
-### `System4.0-Alice Soft`
+<!--### `System4.0-Alice Soft`
 
 + [如何用获取Alicesoft提供的System？如何用它做游戏？](https://www.zhihu.com/question/326991455#:~:text=Alicesoft%E8%87%AA%E7%A4%BE%E7%A0%94%E5%8F%91%E7%9A%84%E5%BC%95%E6%93%8E%E5%B0%B1%E5%8F%ABsyetemXX%EF%BC%8C%E9%9A%8F%E7%9D%80%E6%9B%B4%E6%96%B0%E6%8D%A2%E4%BB%A3%E5%B0%B1%E5%9C%A8%E5%90%8E%E9%9D%A2%E5%8A%A0%E6%95%B0%E5%AD%97%EF%BC%8C%E8%BF%AD%E4%BB%A3%E7%9A%84%E6%97%B6%E5%80%99%E6%94%B9%E5%8F%98%E6%98%AF%E5%BE%88%E5%A4%A7%E7%9A%84%E3%80%82,%E8%80%8C%E6%89%80%E8%B0%93%E7%9A%84%E8%BF%99%E4%B8%AA%E7%BB%99%E7%8E%A9%E5%AE%B6%E7%94%A8%E7%9A%84%E5%BC%95%E6%93%8E%EF%BC%8C%E6%98%AF%E5%9C%A8system4.0%E5%BC%80%E5%8F%91%E5%87%BA%E6%9D%A5%E4%BB%A5%E5%90%8E%EF%BC%8C%E5%85%8D%E8%B4%B9%E5%9C%A8%E7%BD%91%E4%B8%8A%E5%85%AC%E5%BC%80%E7%9A%84system4SDK%EF%BC%8C%E8%BF%99%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%8D%81%E5%87%A0%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BA%8B%E6%83%85%E4%BA%86%E3%80%82%20system4SDK%E7%9A%84%E5%85%AC%E5%BC%80%E5%B7%B2%E7%BB%8F%E5%9C%A82008%E5%B9%B4%E6%88%AA%E6%AD%A2%E3%80%82)
 + 下载地址
@@ -208,16 +208,16 @@
   + 产地：日本
   + 闭源
   + 价格：免费
-  + ![image](https://user-images.githubusercontent.com/29478722/135445752-a4d7e531-87d8-4cd9-98e5-bc41cf2bc57f.png)
+  + ![image](https://user-images.githubusercontent.com/29478722/135445752-a4d7e531-87d8-4cd9-98e5-bc41cf2bc57f.png)-->
 
-### `QliE`引擎
+<!--### `QliE`引擎
 
 + [官网](https://www.qlie.net/)
 + [公司官网](https://warmth.ne.jp/index.php)
 + 描述
   + 产地：日本
   + 闭源
-  + 授权协议：制作游戏需要联系官方并付费，不提供引擎下载
+  + 授权协议：制作游戏需要联系官方并付费，不提供引擎下载-->
 
 ### `bgi`引擎
 
